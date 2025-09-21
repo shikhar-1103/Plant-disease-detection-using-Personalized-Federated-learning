@@ -1,0 +1,196 @@
+--- Experiment Started: 2025-09-15 12:39:44.604382 ---
+
+--- Phase 1/10 Results ---
+Initial Parent Training Time: 714.92 seconds
+Local Client Training Time (This Phase): 259.88 seconds
+
+Parent Model (on Training Set):
+  Accuracy: 0.9536, Precision: 0.9536, Recall: 0.9536, F1-Score: 0.9505
+Parent Model (on Test Set):
+  Accuracy: 0.9580, Precision: 0.9573, Recall: 0.9580, F1-Score: 0.9560
+
+Client 1 (on Training Set):
+  Accuracy: 0.9372, Precision: 0.9404, Recall: 0.9372, F1-Score: 0.9304
+Client 1 (on Test Set):
+  Accuracy: 0.9400, Precision: 0.9468, Recall: 0.9400, F1-Score: 0.9367
+
+Client 2 (on Training Set):
+  Accuracy: 0.9421, Precision: 0.9439, Recall: 0.9421, F1-Score: 0.9397
+Client 2 (on Test Set):
+  Accuracy: 0.9300, Precision: 0.9330, Recall: 0.9300, F1-Score: 0.9283
+---------------------------------
+
+--- Phase 2/10 Results ---
+Local Client Training Time (This Phase): 278.30 seconds
+
+Parent Model (on Training Set):
+  Accuracy: 0.9629, Precision: 0.9621, Recall: 0.9629, F1-Score: 0.9622
+Parent Model (on Test Set):
+  Accuracy: 0.9613, Precision: 0.9618, Recall: 0.9613, F1-Score: 0.9615
+
+Client 1 (on Training Set):
+  Accuracy: 0.9548, Precision: 0.9558, Recall: 0.9548, F1-Score: 0.9528
+Client 1 (on Test Set):
+  Accuracy: 0.9700, Precision: 0.9719, Recall: 0.9700, F1-Score: 0.9692
+
+Client 2 (on Training Set):
+  Accuracy: 0.9471, Precision: 0.9486, Recall: 0.9471, F1-Score: 0.9477
+Client 2 (on Test Set):
+  Accuracy: 0.9400, Precision: 0.9420, Recall: 0.9400, F1-Score: 0.9406
+---------------------------------
+
+--- Phase 3/10 Results ---
+Local Client Training Time (This Phase): 232.15 seconds
+
+Parent Model (on Training Set):
+  Accuracy: 0.9601, Precision: 0.9601, Recall: 0.9601, F1-Score: 0.9601
+Parent Model (on Test Set):
+  Accuracy: 0.9613, Precision: 0.9626, Recall: 0.9613, F1-Score: 0.9618
+
+Client 1 (on Training Set):
+  Accuracy: 0.9749, Precision: 0.9746, Recall: 0.9749, F1-Score: 0.9747
+Client 1 (on Test Set):
+  Accuracy: 0.9400, Precision: 0.9398, Recall: 0.9400, F1-Score: 0.9395
+
+Client 2 (on Training Set):
+  Accuracy: 0.9622, Precision: 0.9616, Recall: 0.9622, F1-Score: 0.9618
+Client 2 (on Test Set):
+  Accuracy: 0.9700, Precision: 0.9733, Recall: 0.9700, F1-Score: 0.9704
+---------------------------------
+
+--- Phase 4/10 Results ---
+Local Client Training Time (This Phase): 230.72 seconds
+
+Parent Model (on Training Set):
+  Accuracy: 0.9636, Precision: 0.9633, Recall: 0.9636, F1-Score: 0.9623
+Parent Model (on Test Set):
+  Accuracy: 0.9674, Precision: 0.9669, Recall: 0.9674, F1-Score: 0.9667
+
+Client 1 (on Training Set):
+  Accuracy: 0.9849, Precision: 0.9849, Recall: 0.9849, F1-Score: 0.9846
+Client 1 (on Test Set):
+  Accuracy: 0.9900, Precision: 0.9902, Recall: 0.9900, F1-Score: 0.9896
+
+Client 2 (on Training Set):
+  Accuracy: 0.9597, Precision: 0.9626, Recall: 0.9597, F1-Score: 0.9552
+Client 2 (on Test Set):
+  Accuracy: 0.9600, Precision: 0.9627, Recall: 0.9600, F1-Score: 0.9540
+---------------------------------
+
+--- Phase 5/10 Results ---
+Local Client Training Time (This Phase): 230.87 seconds
+
+Parent Model (on Training Set):
+  Accuracy: 0.9664, Precision: 0.9658, Recall: 0.9664, F1-Score: 0.9657
+Parent Model (on Test Set):
+  Accuracy: 0.9674, Precision: 0.9669, Recall: 0.9674, F1-Score: 0.9671
+
+Client 1 (on Training Set):
+  Accuracy: 0.9749, Precision: 0.9749, Recall: 0.9749, F1-Score: 0.9744
+Client 1 (on Test Set):
+  Accuracy: 0.9500, Precision: 0.9483, Recall: 0.9500, F1-Score: 0.9489
+
+Client 2 (on Training Set):
+  Accuracy: 0.9471, Precision: 0.9466, Recall: 0.9471, F1-Score: 0.9468
+Client 2 (on Test Set):
+  Accuracy: 0.9300, Precision: 0.9323, Recall: 0.9300, F1-Score: 0.9310
+---------------------------------
+
+--- Phase 6/10 Results ---
+Local Client Training Time (This Phase): 230.33 seconds
+
+Parent Model (on Training Set):
+  Accuracy: 0.9647, Precision: 0.9642, Recall: 0.9647, F1-Score: 0.9642
+Parent Model (on Test Set):
+  Accuracy: 0.9702, Precision: 0.9702, Recall: 0.9702, F1-Score: 0.9702
+
+Client 1 (on Training Set):
+  Accuracy: 0.9623, Precision: 0.9619, Recall: 0.9623, F1-Score: 0.9608
+Client 1 (on Test Set):
+  Accuracy: 0.9500, Precision: 0.9518, Recall: 0.9500, F1-Score: 0.9500
+
+Client 2 (on Training Set):
+  Accuracy: 0.9824, Precision: 0.9839, Recall: 0.9824, F1-Score: 0.9828
+Client 2 (on Test Set):
+  Accuracy: 0.9700, Precision: 0.9696, Recall: 0.9700, F1-Score: 0.9696
+---------------------------------
+
+--- Phase 7/10 Results ---
+Local Client Training Time (This Phase): 236.66 seconds
+
+Parent Model (on Training Set):
+  Accuracy: 0.9625, Precision: 0.9634, Recall: 0.9625, F1-Score: 0.9628
+Parent Model (on Test Set):
+  Accuracy: 0.9669, Precision: 0.9686, Recall: 0.9669, F1-Score: 0.9674
+
+Client 1 (on Training Set):
+  Accuracy: 0.9749, Precision: 0.9747, Recall: 0.9749, F1-Score: 0.9747
+Client 1 (on Test Set):
+  Accuracy: 0.9600, Precision: 0.9642, Recall: 0.9600, F1-Score: 0.9613
+
+Client 2 (on Training Set):
+  Accuracy: 0.9647, Precision: 0.9654, Recall: 0.9647, F1-Score: 0.9650
+Client 2 (on Test Set):
+  Accuracy: 0.9800, Precision: 0.9829, Recall: 0.9800, F1-Score: 0.9805
+---------------------------------
+
+--- Phase 8/10 Results ---
+Local Client Training Time (This Phase): 234.21 seconds
+
+Parent Model (on Training Set):
+  Accuracy: 0.9645, Precision: 0.9640, Recall: 0.9645, F1-Score: 0.9641
+Parent Model (on Test Set):
+  Accuracy: 0.9680, Precision: 0.9680, Recall: 0.9680, F1-Score: 0.9680
+
+Client 1 (on Training Set):
+  Accuracy: 0.9749, Precision: 0.9747, Recall: 0.9749, F1-Score: 0.9747
+Client 1 (on Test Set):
+  Accuracy: 0.9600, Precision: 0.9600, Recall: 0.9600, F1-Score: 0.9600
+
+Client 2 (on Training Set):
+  Accuracy: 0.9798, Precision: 0.9801, Recall: 0.9798, F1-Score: 0.9800
+Client 2 (on Test Set):
+  Accuracy: 0.9700, Precision: 0.9716, Recall: 0.9700, F1-Score: 0.9680
+---------------------------------
+
+--- Phase 9/10 Results ---
+Local Client Training Time (This Phase): 229.95 seconds
+
+Parent Model (on Training Set):
+  Accuracy: 0.9702, Precision: 0.9698, Recall: 0.9702, F1-Score: 0.9695
+Parent Model (on Test Set):
+  Accuracy: 0.9735, Precision: 0.9730, Recall: 0.9735, F1-Score: 0.9731
+
+Client 1 (on Training Set):
+  Accuracy: 0.9799, Precision: 0.9800, Recall: 0.9799, F1-Score: 0.9797
+Client 1 (on Test Set):
+  Accuracy: 0.9600, Precision: 0.9631, Recall: 0.9600, F1-Score: 0.9572
+
+Client 2 (on Training Set):
+  Accuracy: 0.9773, Precision: 0.9771, Recall: 0.9773, F1-Score: 0.9771
+Client 2 (on Test Set):
+  Accuracy: 0.9700, Precision: 0.9717, Recall: 0.9700, F1-Score: 0.9700
+---------------------------------
+
+--- Phase 10/10 Results ---
+Local Client Training Time (This Phase): 232.72 seconds
+
+Parent Model (on Training Set):
+  Accuracy: 0.9696, Precision: 0.9691, Recall: 0.9696, F1-Score: 0.9688
+Parent Model (on Test Set):
+  Accuracy: 0.9707, Precision: 0.9702, Recall: 0.9707, F1-Score: 0.9702
+
+Client 1 (on Training Set):
+  Accuracy: 0.9777, Precision: 0.9777, Recall: 0.9777, F1-Score: 0.9777
+Client 1 (on Test Set):
+  Accuracy: 0.9703, Precision: 0.9714, Recall: 0.9703, F1-Score: 0.9707
+
+Client 2 (on Training Set):
+  Accuracy: 0.9703, Precision: 0.9720, Recall: 0.9703, F1-Score: 0.9687
+Client 2 (on Test Set):
+  Accuracy: 0.9412, Precision: 0.9466, Recall: 0.9412, F1-Score: 0.9328
+---------------------------------
+
+--- Experiment Concluded: 2025-09-15 14:03:41.149211 ---
+Total Run Time: 5033.24 seconds
+
