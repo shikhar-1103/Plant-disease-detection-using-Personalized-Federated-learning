@@ -1,0 +1,1 @@
+Implementation of Personalized Federated Learning (PFL) for training models across decentralized clients with heterogeneous data while preserving privacy. Includes code, logs, and detailed results showing phase-wise performance of both global and client-specific models.
